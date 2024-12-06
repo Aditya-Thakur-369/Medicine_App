@@ -1,12 +1,30 @@
-# Medical App - Medical Service Provider App
+# 🏥 Medical App - Medical Service Provider App
 
-## Introduction
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+
+## 📋 Table of Contents
+
+- [Introduction](#introduction)
+- [Services Offered](#services-offered)
+- [About Medical App](#about-medical-app)
+- [Why Choose Us](#why-choose-us)
+- [How It Works](#how-it-works)
+- [Privacy and Consent](#privacy-and-consent)
+- [Terms of Service](#terms-of-service)
+- [Acknowledgment](#acknowledgment)
+- [Contact Us](#contact-us)
+
+---
+
+## 🌟 Introduction
 
 Medical App is a comprehensive platform that connects patients to expert medical professionals, offering both online and in-person healthcare services. Our mission is to provide accessible, high-quality medical care and psychological support to patients anywhere. With an easy-to-use mobile app, patients can consult with doctors, book appointments, and manage their healthcare needs efficiently and securely.
 
 ---
 
-## Services Offered
+## 🩺 Services Offered
 
 1. **Online Medical Consultations**
    - Timely diagnosis and treatment by specialized doctors.
@@ -14,7 +32,7 @@ Medical App is a comprehensive platform that connects patients to expert medical
 
 2. **Online Psychological Support Sessions**
    - Confidential, secure video sessions with licensed psychological specialists.
-   - Flexible scheduling to suit the patient’s convenience.
+   - Flexible scheduling to suit the patient's convenience.
 
 3. **In-Person Doctor Appointment Bookings**
    - Assistance in scheduling in-person consultations with specialized doctors.
@@ -25,9 +43,11 @@ Medical App is a comprehensive platform that connects patients to expert medical
 
 ---
 
-## About Medical App
+## 📱 About Medical App
 
-Medical App operates from 08:00 AM to 08:00 PM and offers a seamless telemedicine solution for patients. We address common challenges in healthcare access, including:
+> Medical App operates from 08:00 AM to 08:00 PM and offers a seamless telemedicine solution for patients.
+
+We address common challenges in healthcare access, including:
 
 - Limited accessibility for patients in rural or remote areas.
 - Long waiting times for non-urgent consultations.
@@ -42,7 +62,7 @@ Medical App operates from 08:00 AM to 08:00 PM and offers a seamless telemedicin
 
 ---
 
-## Why Choose Us?
+## 🏆 Why Choose Us?
 
 - **Accessibility:** Expert care from the comfort of your home.
 - **Timeliness:** Quick responses from medical professionals during working hours.
@@ -52,7 +72,7 @@ Medical App operates from 08:00 AM to 08:00 PM and offers a seamless telemedicin
 
 ---
 
-## How It Works
+## 🚀 How It Works
 
 1. **Create an Account:** Register on the app and complete your profile, including medical history.
 2. **Select a Service:**
@@ -66,22 +86,28 @@ Medical App operates from 08:00 AM to 08:00 PM and offers a seamless telemedicin
 
 ---
 
-## Privacy and Consent
+## 🔒 Privacy and Consent
 
-### Privacy Policy Highlights:
+<details>
+<summary>Privacy Policy Highlights</summary>
+
 - Secure storage and use of personal information.
 - Encrypted video conferencing for psychological sessions.
 - No recording of sessions without explicit consent.
+</details>
 
-### Consent:
+<details>
+<summary>Consent</summary>
+
 Patients agree to:
 - Provide accurate and complete information.
 - Acknowledge that the service does not cater to emergency or life-threatening conditions.
 - Understand the terms of use and privacy policy.
+</details>
 
 ---
 
-## Terms of Service
+## 📜 Terms of Service
 
 ### Key Points:
 - The app is intended for non-emergency healthcare services.
@@ -91,7 +117,7 @@ Patients agree to:
 
 ---
 
-## Acknowledgment
+## ✅ Acknowledgment
 
 By using Medical App, patients agree to:
 - Comply with all applicable laws and regulations.
@@ -100,14 +126,10 @@ By using Medical App, patients agree to:
 
 ---
 
-## Contact Us
+## 📞 Contact Us
+
+**Email:** [Email](mailto:adityachauhan0369@gmail.com)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jyotiraditya-chauhan/)
 
 For inquiries or support, please contact:
 
-- **Phone:** +910000000000
-- **Email:** [Email](mailto:adityachauhan0369@gmail.com)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/jyotiraditya-chauhan/)
-
----
-
-Thank you for choosing Medical App, where your health and privacy are our priorities.
