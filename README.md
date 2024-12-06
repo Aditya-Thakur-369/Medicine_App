@@ -128,7 +128,7 @@ By using Medical App, patients agree to:
 
 ## 📞 Contact Us
 
-**Email:** [Email](mailto:adityachauhan0369@gmail.com)
+**Email:** [Email](mailto:adityachauhan0369@gmail.com)<br/>
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jyotiraditya-chauhan/)
 
 For inquiries or support, please contact:
